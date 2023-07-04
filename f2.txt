@@ -1,0 +1,1 @@
+In this program, we first prompt the user for the name of the text file they want to read in.
