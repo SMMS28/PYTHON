@@ -13,6 +13,7 @@ if __name__ == "__main__":
     alex.color("orange")
     alex.pensize(3)
     boxes = 100
+    
 
     for _ in range(boxes):
         draw_square(alex, 200)
