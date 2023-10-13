@@ -6,6 +6,7 @@ def draw_square(turtle, size):
         turtle.left(90)
         turtle.speed(0)
 
+
 if __name__ == "__main__":
     wn = turtle.Screen()
     wn.bgcolor("black")
