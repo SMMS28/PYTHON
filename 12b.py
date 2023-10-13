@@ -4,6 +4,7 @@ def draw_square(turtle, size):
     for i in range(4):
         turtle.forward(size)
         turtle.left(90)
+        
         turtle.speed(0)
 
 
