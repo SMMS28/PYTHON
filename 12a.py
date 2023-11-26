@@ -5,8 +5,6 @@ win.geometry("312x324")  # this is for the size of the window
 #win.resizable(0, 0)  # this is to prevent from resizing the window
 win.title("Calculator")
 
-###################Starting 
-
 def btn_click(item):
     global expression
     expression = expression + str(item)
