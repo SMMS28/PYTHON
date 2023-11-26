@@ -7,8 +7,7 @@ win.title("Calculator")
 
 ###################Starting with functions ####################
 # 'btn_click' function :
-# This Function continuously updates the
-# input field whenever you enter a number
+# This Function m
 
 def btn_click(item):
     global expression
